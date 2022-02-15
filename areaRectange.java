@@ -1,0 +1,14 @@
+public class areaRectange {
+    public static void main(String[] args) {
+
+        // area of circle
+        
+        double length=4;
+        double breadth= 3.141;
+        double area;
+        area = length*breadth;
+        
+        System.out.println("The area of Rectange is "+ area);
+        
+        }
+}
