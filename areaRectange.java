@@ -1,7 +1,7 @@
 public class areaRectange {
     public static void main(String[] args) {
 
-        // area of circle
+        // area of Rectangle
         
         double length=4;
         double breadth= 3.141;
