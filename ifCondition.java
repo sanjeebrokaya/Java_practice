@@ -5,7 +5,7 @@ import javax.lang.model.util.ElementScanner14;
 public class ifCondition {
     public static void main(String[]args){
 
-       Scanner scanInput= new Scanner(System.in);
+      // Scanner scanInput= new Scanner(System.in);
         
        //if else
         // int age=scanInput.nextInt();
@@ -61,5 +61,7 @@ public class ifCondition {
 
             }
 
+       
     }
-}
+
+  }
