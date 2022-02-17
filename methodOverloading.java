@@ -1,4 +1,3 @@
-import javax.naming.spi.DirStateFactory.Result;
 
 public class methodOverloading {
 
@@ -18,7 +17,6 @@ public class methodOverloading {
         System.out.println("function overriding.");
         return num1+num2+num3;
     }
-
 
 
     public static void main(String[]args){
